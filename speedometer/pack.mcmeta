@@ -1,6 +1,7 @@
 {
 	"pack": {
 		"pack_format": 1,
-		"description": "FTMC Speedometer Tool for 1.13"
+		"description": "speedometer",
+		"__based_on": "FTMC Railway Builder Tool for 1.13 Snapshots"
 	}
 }

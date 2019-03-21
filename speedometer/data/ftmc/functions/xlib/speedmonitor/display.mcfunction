@@ -6,3 +6,6 @@ execute as @a[scores={ftmc_sm_timer=..0}] at @s run function ftmc:xlib/speedmoni
 
 # Player timer countdown
 scoreboard players remove @a ftmc_sm_timer 1
+
+# display Rotation if player equips elytra and has firework_rocket in hotbar or in off-hand
+execute as @a[nbt={Inventory:[{Slot:102b,id:"minecraft:elytra"}]}] at @s run function ftmc:xlib/speedmonitor/display_angle
