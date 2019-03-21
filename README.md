@@ -9,4 +9,4 @@ speedometer datapack for Minecraft 1.13.2
   - to be exact, player who meets all following conditions is 'can fly':
     - equips elytra
     - has firework rocket in off-hand or hotbar
-
+- add uninstall function
