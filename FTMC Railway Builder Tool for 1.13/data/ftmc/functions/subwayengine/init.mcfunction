@@ -1,3 +1,0 @@
-gamerule commandBlockOutput false
-gamerule logAdminCommands false
-scoreboard objectives add ftcarttimer dummy
